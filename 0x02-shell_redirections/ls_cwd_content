@@ -1,0 +1,14 @@
+total 47
+drwx------ 2 u0_a10 u0_a10 3488 Mar 13 14:40 .
+drwx------ 6 u0_a10 u0_a10 3488 Mar 13 13:42 ..
+-rwx------ 1 u0_a10 u0_a10   32 Mar 13 13:42 0-hello_world
+-rwxrwxrwx 1 u0_a10 u0_a10   28 Mar 13 13:55 1-confused_smiley
+-rwxrwxrwx 1 u0_a10 u0_a10   28 Mar 13 13:42 2-hellofile
+-rwxrwxrwx 1 u0_a10 u0_a10   39 Mar 13 13:42 3-twofiles
+-rwxrwxrwx 1 u0_a10 u0_a10   35 Mar 13 13:42 4-lastlines
+-rwxrwxrwx 1 u0_a10 u0_a10   33 Mar 13 13:59 5-firstlines
+-rwxrwxrwx 1 u0_a10 u0_a10   36 Mar 13 13:42 6-third_line
+-rwxrwxrwx 1 u0_a10 u0_a10   99 Mar 13 14:31 7-file
+-rwxrwxrwx 1 u0_a10 u0_a10   36 Mar 13 14:39 8-cwd_state
+-rw------- 1 u0_a10 u0_a10   60 Mar 13 13:42 README.md
+-rw------- 1 u0_a10 u0_a10    0 Mar 13 14:40 ls_cwd_content
